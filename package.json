@@ -1,0 +1,27 @@
+{
+  "name": "jest-unit-testing-practice",
+  "version": "1.0.0",
+  "description": "Unit testing practice with Jest",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.2.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "babel-jest": "^27.2.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobGiordano/jest-unit-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobGiordano/jest-unit-testing-practice/issues"
+  },
+  "homepage": "https://github.com/JacobGiordano/jest-unit-testing-practice#readme"
+}
